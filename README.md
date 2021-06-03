@@ -6,7 +6,7 @@ Introductory repo for Github Project
 
 Foobar is a Python library for dealing with word pluralization.
 
-## Installation - Installationsssss
+## Installationmmm
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
